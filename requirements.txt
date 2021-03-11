@@ -1,0 +1,7 @@
+eth-brownie>=1.12.4,<2.0.0
+pre-commit==2.4.0
+tox==3.23
+brownie-token-tester>=0.1.0
+black==19.10b0
+flake8==3.8.4
+isort==5.7.0
